@@ -12,4 +12,4 @@
 
 ## O código do notebook com o processamento e análise do texto se encontra nesse link [Biochermistry](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/Biochermistry.ipynb).
 
-## Temos o tabela salva no banco de dados 
+## Temos a tabela salva no banco de dados [tabela_mysql](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/sql.png)
