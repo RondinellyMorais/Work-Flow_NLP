@@ -12,4 +12,6 @@
 
 ## O código do notebook com o processamento e análise do texto se encontra nesse link [Biochermistry](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/Biochermistry.ipynb).
 
-## Temos a tabela salva no banco de dados [tabela_mysql](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/sql.png)
+##  O arquivo csv com o a tabela contendo as palavras mais frequentes do texto pode ser encontrado nesse link [bio_freq](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/bio_freq.csv)
+
+## Temos a visualização da tabela salva no banco de dados nesse link [tabela_mysql](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/sql.png)
