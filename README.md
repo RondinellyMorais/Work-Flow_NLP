@@ -10,4 +10,4 @@
 ## Podemos visualizar o código para extrair o texto abaixo 
 ![código web scrapy](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/scrapy.png)
 
-## O código do notebook com o processamento e análise do texto se encontra no link abaixo
+## O código do notebook com o processamento e análise do texto se encontra nesse link [Biochermistry](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/Biochermistry.ipynb).
