@@ -4,6 +4,10 @@
 
 ## Nessa análise usamos textos no idioma inglês, contudo podemos facilmente adaptar os algoritmos para qualquer outro idioma apenas baixando o dicionário correspondente. No final salvamos alguns dados produzidos em arquivos csv e salvando em um banco de dados MySQL.
 
+## O diagrama do fluxo de trabalho que usamos pode ser visto abaixo
 ![oi](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/fluxwork.jpg)
 
-Podemos visualizar o código para extrair o texto abaixo 
+## Podemos visualizar o código para extrair o texto abaixo 
+![código web scrapy](https://github.com/RondinellyMorais/Work-Flow_NLP/blob/master/scrapy.png)
+
+## O código do notebook com o processamento e análise do texto se encontra no link abaixo
